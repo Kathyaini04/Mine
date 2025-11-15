@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kathyaini04/Mine/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kathyaini04/Mine/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kathyaini04/Mine/tree/master/0059-spiral-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -29,8 +30,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kathyaini04/Mine/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kathyaini04/Mine/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kathyaini04/Mine/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kathyaini04/Mine/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kathyaini04/Mine/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
