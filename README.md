@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kathyaini04/Mine/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Trie
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kathyaini04/Mine/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kathyaini04/Mine/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kathyaini04/Mine/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Kathyaini04/Mine/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
