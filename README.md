@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 ## Trie
 |  |
@@ -145,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kathyaini04/Mine/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
