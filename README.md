@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Kathyaini04/Mine/tree/master/0274-h-index) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 | [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
+| [1402-reducing-dishes](https://github.com/Kathyaini04/Mine/tree/master/1402-reducing-dishes) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
 | [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
+| [1402-reducing-dishes](https://github.com/Kathyaini04/Mine/tree/master/1402-reducing-dishes) |
 ## Sorting
 |  |
 | ------- |
@@ -78,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Kathyaini04/Mine/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 | [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
+| [1402-reducing-dishes](https://github.com/Kathyaini04/Mine/tree/master/1402-reducing-dishes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
+| [1402-reducing-dishes](https://github.com/Kathyaini04/Mine/tree/master/1402-reducing-dishes) |
 ## Depth-First Search
 |  |
 | ------- |
