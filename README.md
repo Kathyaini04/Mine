@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kathyaini04/Mine/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Kathyaini04/Mine/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Kathyaini04/Mine/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Kathyaini04/Mine/tree/master/0206-reverse-linked-list) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Kathyaini04/Mine/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kathyaini04/Mine/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Kathyaini04/Mine/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kathyaini04/Mine/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kathyaini04/Mine/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Kathyaini04/Mine/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kathyaini04/Mine/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
 ## Backtracking
