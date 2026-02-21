@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kathyaini04/Mine/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/Kathyaini04/Mine/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kathyaini04/Mine/tree/master/0274-h-index) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
+| [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
+| [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Kathyaini04/Mine/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Kathyaini04/Mine/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
+| [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
 | ------- |
