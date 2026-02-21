@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kathyaini04/Mine/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Kathyaini04/Mine/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/Kathyaini04/Mine/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kathyaini04/Mine/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kathyaini04/Mine/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kathyaini04/Mine/tree/master/0059-spiral-matrix-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kathyaini04/Mine/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kathyaini04/Mine/tree/master/0274-h-index) |
 | [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kathyaini04/Mine/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kathyaini04/Mine/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kathyaini04/Mine/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0372-super-pow](https://github.com/Kathyaini04/Mine/tree/master/0372-super-pow) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Kathyaini04/Mine/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kathyaini04/Mine/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Kathyaini04/Mine/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kathyaini04/Mine/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
