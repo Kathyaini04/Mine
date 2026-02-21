@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Kathyaini04/Mine/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 ## Greedy
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
 ## Trie
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Kathyaini04/Mine/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
@@ -196,9 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kathyaini04/Mine/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kathyaini04/Mine/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kathyaini04/Mine/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kathyaini04/Mine/tree/master/0513-find-bottom-left-tree-value) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Kathyaini04/Mine/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Kathyaini04/Mine/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
