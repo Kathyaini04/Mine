@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kathyaini04/Mine/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kathyaini04/Mine/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kathyaini04/Mine/tree/master/0059-spiral-matrix-ii) |
+| [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Kathyaini04/Mine/tree/master/2573-remove-nodes-from-linked-list) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
