@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kathyaini04/Mine/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Kathyaini04/Mine/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kathyaini04/Mine/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kathyaini04/Mine/tree/master/0059-spiral-matrix-ii) |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kathyaini04/Mine/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kathyaini04/Mine/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kathyaini04/Mine/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
