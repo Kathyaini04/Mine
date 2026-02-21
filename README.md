@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Kathyaini04/Mine/tree/master/0059-spiral-matrix-ii) |
 | [0179-largest-number](https://github.com/Kathyaini04/Mine/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kathyaini04/Mine/tree/master/0274-h-index) |
+| [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
 | [0472-concatenated-words](https://github.com/Kathyaini04/Mine/tree/master/0472-concatenated-words) |
 | [0846-hand-of-straights](https://github.com/Kathyaini04/Mine/tree/master/0846-hand-of-straights) |
 | [1402-reducing-dishes](https://github.com/Kathyaini04/Mine/tree/master/1402-reducing-dishes) |
@@ -117,5 +118,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kathyaini04/Mine/tree/master/0004-median-of-two-sorted-arrays) |
+| [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/Kathyaini04/Mine/tree/master/0372-super-pow) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kathyaini04/Mine/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
